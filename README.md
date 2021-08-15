@@ -41,22 +41,21 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryazakaria01&" alt="aryazakaria01" /></p>
 
 # Stats
-<p align="center"><a href="https://github.com/aryazakaria01"><img src="https://github-readme-stats.vercel.app/api?username=aryazakaria01&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/aryazakaria01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryazakaria01&theme=radical&layout=compact">
+<p align="center"><a href="https://github.com/KEK-Projects"><img src="https://github-readme-stats.vercel.app/api?username=KEK-Projects&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/KEK-Projects"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KEK-Projects&theme=radical&layout=compact">
 </a></p>    
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=aryazakaria01&layout=compact" alt="aryazakaria01" /></p>    
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=KEK-Projects&layout=compact" alt="KEK-Projects" /></p>    
 
 
 
 
-## Repo Stats
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=CyberDyne-Userbot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=SkyNet-Project&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=Stephanie-Userbot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=Exvop-Userbot&theme=dark)
 
-##  🎶 **Currently Playing**
-[![Spotify](https://spotify.pokurt.me/api/spotify)](https://open.spotify.com/user/31v25ooo3yqa36h5mpctehltg27e)
+
+
+
+
+
+
 
 
 <details>
@@ -66,17 +65,17 @@
 
 </details>
 
-## Device
-![Apple](https://telegra.ph//file/0fbfdee1b74bbbb15b817.jpg) 
-![Android](https://telegra.ph//file/6dd397aa11f13b1f5d8a4.jpg) 
-![Imac Pro](https://telegra.ph//file/1cd55b1eefe095687699d.jpg) 
-![Macbook Pro](https://telegra.ph//file/5ee83bd3e52cf4b1754fe.jpg) 
-![Macbook Air](https://telegra.ph//file/d0b9ea0bcc10757ebb22c.jpg) 
-![ROG](https://telegra.ph//file/c2c015d8c8d44ee5830a5.jpg) 
-![Lenovo](https://telegra.ph//file/f6360f28bfca281b595c5.jpg) 
-![Apple Icare](https://telegra.ph//file/bfccd1baa3e4ba3a643e2.jpg) 
-![Iphone](https://telegra.ph//file/0601903de6efd4cdf1b6b.jpg) 
-![Apple Pay](https://telegra.ph//file/d074a6a40af755937938b.jpg) 
-![Ipad](https://telegra.ph//file/6b6087b276e36dc042d80.jpg) 
 
-<a href="http://www.website.com"><img src="http://www.website.com/images/logo_16_x_16.gif" height="16" width= 
+
+
+
+
+
+
+
+
+
+
+
+
+
