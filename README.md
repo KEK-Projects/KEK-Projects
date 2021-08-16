@@ -8,23 +8,23 @@
 
 
 ## Info
-- 🔭 I’m currently working on [SkyNet-Project](https://github.com/aryazakaria01/SkyNet-Project)
+- 🔭 I’m currently working on **KEGABUTAN 😈**
 
 - 🌱 I’m currently learning **Pyhton, Linux, Telethon, Android, Javascript, Java, php,**
 
-- 👯 I’m looking to collaborate on [CyberDyne](https://github.com/aryazakaria01/CyberDyne-Userbot)
+- 👯 I’m looking to collaborate on ...
 
-- 🤝 I’m looking for help with [Music King](https://github.com/apisuserbot/Music-King)
+- 🤝 I’m looking for help with ...
 
-- 👨‍💻 All of my projects are available at [https://github.com/aryazakaria01?tab=repositories](https://github.com/aryazakaria01?tab=repositories)
+- 👨‍💻 All of my projects are available at ...
 
 - 💬 Ask me about **How to make a userbot**
 
-- 📫 How to reach me **ardianrazak7107@gmail.com**
+- 📫 How to reach me **okik.rockabilly@gmail.com**
 
-- ⚡ Fun fact **I'm a good person in programmer**
+- ⚡ Fun fact ** a good person in programmer**
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h3>
 
 
 <a href="https://t.me/Skuyykek69" target="_blank"> <img src="https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
@@ -40,11 +40,6 @@
 <p align="center"><a href="https://github.com/KEK-Projects"><img src="https://github-readme-stats.vercel.app/api?username=KEK-Projects&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/KEK-Projects"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KEK-Projects&theme=radical&layout=compact">
 </a></p>    
-
-
-
-
-
 
 
 
