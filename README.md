@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **okik.rockabilly@gmail.com**
 
-- ⚡ Fun fact **I'm a programmer only when I'm not working**
+- ⚡ Fun fact **I'm a programmer only when I'm gabut😈**
 
 <h1 align="left">Connect with me:</h3>
 
