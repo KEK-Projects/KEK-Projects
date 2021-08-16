@@ -1,8 +1,8 @@
-<h1 align="center">Hi, My Name Is Fajar Onky H</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My Name Is Fajar Onky H</h1>
 <h3 align="center">A passionate frontend developer from Indonesia🇮🇩</h3>
 
 ## ᴘʀᴏꜰɪʟᴇ ᴏᴠᴇʀᴠɪᴇᴡꜱ ʜᴇʀᴇ
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="800" />
 
 
 
